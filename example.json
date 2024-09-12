@@ -1,0 +1,2047 @@
+{
+	"id": "480092439",
+	"profileId": "ACoAABydoRcBSVswdCIvSsNdA2iFB2q9lhuIwrw",
+	"firstName": "Raul",
+	"lastName": "Quinones",
+	"occupation": "Sr. Scrum Master at Tandem Diabetes",
+	"publicIdentifier": "raulnquinones",
+	"trackingId": "mWjYrdhpQjaVlboxrqjO2A==",
+	"pictureUrl": "https://media.licdn.com/dms/image/D4D03AQEMIIYdu-NVvw/profile-displayphoto-shrink_100_100/0/1664597475703?e=1709769600&v=beta&t=0INIOziFVQEK4Bd9od79TNr1fRG5gKrWdazJdPDkedw",
+	"coverImageUrl": "https://media.licdn.com/dms/image/D5616AQGyd5nA0kfJLQ/profile-displaybackgroundimage-shrink_200_800/0/1692314447790?e=1709769600&v=beta&t=ZzWOabPKjstyCbd4AsBSlsd-rEDQBQV6CiszFVli8rk",
+	"countryCode": "us",
+	"geoUrn": "urn:li:fs_geo:103918656",
+	"positions": [
+		{
+			"title": "Sr. Scrum Master I",
+			"locationName": "San Diego, California, United States",
+			"timePeriod": {
+				"startDate": {
+					"month": 10,
+					"year": 2022
+				}
+			}
+		},
+		{
+			"title": "Scrum Master",
+			"locationName": "Remote",
+			"timePeriod": {
+				"endDate": {
+					"month": 9,
+					"year": 2022
+				},
+				"startDate": {
+					"month": 11,
+					"year": 2019
+				}
+			}
+		},
+		{
+			"title": "Associate",
+			"locationName": "Rockville, Maryland",
+			"timePeriod": {
+				"endDate": {
+					"month": 11,
+					"year": 2019
+				},
+				"startDate": {
+					"month": 3,
+					"year": 2017
+				}
+			}
+		},
+		{
+			"title": "Consultant",
+			"locationName": "Washington D.C. Metro Area",
+			"timePeriod": {
+				"endDate": {
+					"month": 3,
+					"year": 2017
+				},
+				"startDate": {
+					"month": 10,
+					"year": 2015
+				}
+			}
+		},
+		{
+			"title": "Senior Technology Analyst",
+			"locationName": "Washington D.C. Metro Area",
+			"timePeriod": {
+				"endDate": {
+					"month": 10,
+					"year": 2015
+				},
+				"startDate": {
+					"month": 4,
+					"year": 2014
+				}
+			}
+		}
+	],
+	"educations": [
+		{
+			"degreeName": "Bachelor’s Degree",
+			"fieldOfStudy": "Electrical, Electronics and Communications Engineering",
+			"schoolName": "University of Puerto Rico-Mayaguez",
+			"timePeriod": {
+				"endDate": {
+					"year": 2011
+				},
+				"startDate": {
+					"year": 2005
+				}
+			}
+		},
+		{
+			"degreeName": "Bachelor’s Degree",
+			"fieldOfStudy": "Telecommunications Engineering",
+			"schoolName": "Universidad Alfonso X El Sabio",
+			"timePeriod": {
+				"endDate": {
+					"year": 2009
+				},
+				"startDate": {
+					"year": 2009
+				}
+			}
+		}
+	],
+	"certifications": [
+		{
+			"name": "Security+ Certification",
+			"timePeriod": {
+				"endDate": {
+					"month": 12,
+					"year": 2025
+				},
+				"startDate": {
+					"month": 12,
+					"year": 2016
+				}
+			},
+			"authority": "CompTIA"
+		},
+		{
+			"name": "Certified SAFe 5 Scrum Master",
+			"timePeriod": {
+				"endDate": {
+					"month": 5,
+					"year": 2023
+				},
+				"startDate": {
+					"month": 5,
+					"year": 2020
+				}
+			},
+			"authority": "Scaled Agile, Inc."
+		}
+	],
+	"courses": [
+		{
+			"name": "Basic Java Training"
+		},
+		{
+			"name": "Business Analyst Course"
+		},
+		{
+			"name": "Oracle EDQ Training"
+		},
+		{
+			"name": "Project Management Certification Course"
+		},
+		{
+			"name": "Security+ Class"
+		}
+	],
+	"honors": [
+		{
+			"title": "RGS Recognition Award",
+			"description": "Recognition Award due to great work achieved. ",
+			"issueDate": {
+				"month": 6,
+				"year": 2016
+			},
+			"issuer": "RGS Inc"
+		}
+	],
+	"languages": [
+		{
+			"name": "English",
+			"proficiency": "NATIVE_OR_BILINGUAL"
+		},
+		{
+			"name": "Italian",
+			"proficiency": "ELEMENTARY"
+		},
+		{
+			"name": "Spanish",
+			"proficiency": "NATIVE_OR_BILINGUAL"
+		}
+	],
+	"skills": [
+		"Jira",
+		"Scrum",
+		"Testing",
+		"Oracle Application Express"
+	],
+	"volunteerExperiences": [
+		{
+			"role": "Resume Builder Volunteer",
+			"description": "• Advised Washington, DC residents with low-income regarding how to perform a successful interview, as well as, how to research job postings online\n• Helped Washington, DC residents with low-income who has the desire of progress with resume preparation and conducted mock interviews\n• Conducted mock interviews",
+			"timePeriod": {
+				"endDate": {
+					"month": 1,
+					"year": 2015
+				},
+				"startDate": {
+					"month": 1,
+					"year": 2015
+				}
+			},
+			"companyName": "Byte Back, Inc.",
+			"cause": "SOCIAL_SERVICES"
+		}
+	],
+	"headline": "Sr. Scrum Master at Tandem Diabetes",
+	"summary": "Information Technology Scrum Master with over 10 years of extensive experience with the Software Development Lifecycle focusing on design, planning, testing efforts, functional/technical requirements gathering, and program management support. Recognized as a creative self-learner and motivated individual with the ability to manage multiple tasks and prioritize deliverables in fast-paced environments. Interested in obtaining a Scrum Master or Project Management position, where I can show and improve my skills while benefiting the company.",
+	"student": false,
+	"industryName": "Medical Device",
+	"industryUrn": "urn:li:fs_industry:17",
+	"geoLocationName": "San Diego, California",
+	"geoCountryName": "United States",
+	"jobTitle": "Sr. Scrum Master I",
+	"companyName": "Tandem Diabetes Care",
+	"companyPublicId": "tandemdiabetes",
+	"companyLinkedinUrl": "https://www.linkedin.com/company/tandemdiabetes",
+	"currentCompany": {
+		"affiliatedOrganizationsByEmployees": {
+			"elements": []
+		},
+		"affiliatedOrganizationsByShowcases": {
+			"elements": []
+		},
+		"affiliatedOrganizationsByJobs": {
+			"elements": []
+		},
+		"groupedLocations": [
+			{
+				"localizedName": "Boise",
+				"locations": [
+					{
+						"streetAddressOptOut": false,
+						"description": null,
+						"address": {
+							"country": "US",
+							"geographicArea": "Idaho",
+							"city": "Boise",
+							"postalCode": "83702",
+							"line2": null,
+							"line1": "1555 Shoreline Dr"
+						},
+						"headquarter": false
+					}
+				],
+				"latLong": {
+					"latitude": 43.604378,
+					"longitude": -116.20438
+				}
+			},
+			{
+				"localizedName": "San Diego",
+				"locations": [
+					{
+						"streetAddressOptOut": false,
+						"description": null,
+						"address": {
+							"country": "US",
+							"geographicArea": "California",
+							"city": "San Diego",
+							"postalCode": "92130",
+							"line2": null,
+							"line1": "12400 High Bluff Drive "
+						},
+						"headquarter": true
+					}
+				],
+				"latLong": {
+					"latitude": 32.71576,
+					"longitude": -117.16382
+				}
+			}
+		],
+		"employeeCount": 1881,
+		"adsRule": "STANDARD",
+		"acquirerCompany": null,
+		"school": null,
+		"claimable": false,
+		"topOrganizationListing": null,
+		"specialities": [
+			"t:slim X2 Insulin Pump",
+			"t:connect Diabetes Management Application",
+			"Infusion Sets for Insulin Pumps",
+			"Insulin Pump Accessories",
+			"t:simulator Insulin Pump Demo App",
+			"Type 1 Diabetes",
+			"Insulin Pump"
+		],
+		"announcement": null,
+		"socialProofInsight": {
+			"standard": {
+				"insightImage": {
+					"attributes": [
+						{
+							"scalingType": null,
+							"detailData": {
+								"profilePictureWithoutFrame": null,
+								"profilePictureWithRingStatus": null,
+								"companyLogo": null,
+								"icon": null,
+								"systemImage": null,
+								"nonEntityGroupLogo": null,
+								"vectorImage": null,
+								"profilePicture": {
+									"profilePicture": {
+										"displayImageReferenceResolutionResult": {
+											"url": null,
+											"vectorImage": {
+												"attribution": null,
+												"digitalmediaAsset": null,
+												"artifacts": [
+													{
+														"width": 100,
+														"fileIdentifyingUrlPathSegment": "100_100/0/1703900571202?e=1709769600&v=beta&t=UqkxIJkisII4ZyyqYXk6XHLmwnJwvfFFL0X4j29oZhM",
+														"expiresAt": 1709769600000,
+														"height": 100
+													},
+													{
+														"width": 200,
+														"fileIdentifyingUrlPathSegment": "200_200/0/1703900571202?e=1709769600&v=beta&t=zBJ3ZKoHmf0Yq9fkzTBkDyEUdGi5fCE8mdM_ohDTr0s",
+														"expiresAt": 1709769600000,
+														"height": 200
+													},
+													{
+														"width": 389,
+														"fileIdentifyingUrlPathSegment": "400_400/0/1703900571202?e=1709769600&v=beta&t=eX2WbHBAhrPAGsQPI0P56WO2ebBEzpWIElXCEs701M8",
+														"expiresAt": 1709769600000,
+														"height": 389
+													},
+													{
+														"width": 389,
+														"fileIdentifyingUrlPathSegment": "800_800/0/1703900571202?e=1709769600&v=beta&t=trtv847g5ZSIFUVoUoWkp-p5xkg_3E7-eXnkCz3BZKQ",
+														"expiresAt": 1709769600000,
+														"height": 389
+													}
+												],
+												"rootUrl": "https://media.licdn.com/dms/image/D4E03AQFpDxWZssoQTw/profile-displayphoto-shrink_"
+											}
+										},
+										"displayImageWithFrameReference": null,
+										"displayImageUrn": "urn:li:digitalmediaAsset:D4E03AQFpDxWZssoQTw"
+									},
+									"entityUrn": "urn:li:fsd_profile:ACoAAAJHTr0BesSfbZ_ABzO42xl7-qibN_pxsDc"
+								},
+								"nonEntityProfessionalEventLogo": null,
+								"imageUrl": null,
+								"professionalEventLogo": null,
+								"nonEntityCompanyLogo": null,
+								"nonEntitySchoolLogo": null,
+								"groupLogo": null,
+								"schoolLogo": null,
+								"ghostImage": null,
+								"nonEntityProfilePicture": null
+							},
+							"tintColor": null,
+							"tapTargets": [],
+							"displayAspectRatio": null
+						}
+					],
+					"editableAccessibilityText": false,
+					"actionTarget": null,
+					"accessibilityTextAttributes": [],
+					"totalCount": null,
+					"accessibilityText": null
+				},
+				"text": {
+					"textDirection": "USER_LOCALE",
+					"text": "Jason & 8 other connections follow this page",
+					"attributesV2": [],
+					"accessibilityTextAttributesV2": [],
+					"accessibilityText": null
+				},
+				"navigationUrl": "http://www.linkedin.com/company/tandemdiabetes/?showInNetworkFollowers=true",
+				"entityUrn": "urn:li:fsd_relInsight:(urn:li:fsd_profile:ACoAABsr_qoB7HuVA7QxML20YCd8owCJvSq1jeY,urn:li:fsd_organizationalPage:946628,ORGANIZATION_SOCIAL_PROOF)"
+			}
+		},
+		"salesNavigatorCompanyUrl": "https://www.linkedin.com/sales/accounts/insights?companyId=946628&trk=li_comp_page",
+		"pageMailbox": null,
+		"active": true,
+		"jobSearchUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=946628",
+		"employeeCountRange": {
+			"start": 1001,
+			"end": 5000
+		},
+		"associatedSignatureProduct": null,
+		"parentCompany": null,
+		"similarOrganizations": {
+			"paging": {
+				"count": 12,
+				"start": 0,
+				"total": 0
+			},
+			"elements": [
+				{
+					"industryV2Taxonomy": [
+						{
+							"name": "Medical Equipment Manufacturing",
+							"entityUrn": "urn:li:fsd_industryV2:17"
+						}
+					],
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D561BAQF7sjtwVpvyMw",
+							"artifacts": [
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "10000/0/1673359381631/insulet_corporation_cover?e=1704812400&v=beta&t=E13Kp5Yt99H3h4_RHnkdUwSoBZRHbQL5NX1ysf3eZE4",
+									"expiresAt": 1704812400000,
+									"height": 191
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1673359381631/insulet_corporation_cover?e=1704812400&v=beta&t=UdkkoQ6qVJL-22C5suktd79WR32YPOhQg3-EGZM-IZs",
+									"expiresAt": 1704812400000,
+									"height": 67
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1673359381631/insulet_corporation_cover?e=1704812400&v=beta&t=hkNEuX_q9W9jMkBWPaalwbmYWFcjy1kqkZVNLSPt-VY",
+									"expiresAt": 1704812400000,
+									"height": 33
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D561BAQF7sjtwVpvyMw/company-background_"
+						}
+					},
+					"description": "Insulet Corporation, headquartered in Massachusetts, is an innovative medical device company dedicated to simplifying life for people with diabetes and other conditions through its Omnipod product platform. The Omnipod® Insulin Management System provides a unique alternative to traditional insulin delivery methods.  With its simple, wearable design, the disposable Pod provides up to three days of non-stop insulin delivery, without the need to see or handle a needle. Insulet also leverages the unique design of its Pod by tailoring its Omnipod technology platform for the delivery of non-insulin subcutaneous drugs across other therapeutic areas. Founded in 2000 (NASDAQ: PODD), Insulet operates with a customer-centric focus to supply high-quality products and expand the use of insulin pump therapy. Omnipod products are now available in 20+ countries around the globe.\n\nHIRING SCAM ALERT \nRecently, individuals impersonating Insulet Human Resources members have offered fraudulent interviews and job offers to unsuspecting candidates.  To help protect you from these scam artists, please be aware that:\n\n•\tInsulet will never interview a candidate over RingCentral, similar messaging apps or social media (i.e. Google Hangouts, WhatsApp, Facebook Messenger, etc.), or via text message.\n•\tInsulet will never send a company check or ask an applicant to pay a fee or purchase at home work/training materials in connection with an application for employment.\n•\tInsulet will never provide excess money to an applicant and ask the applicant to write a check for repayment.\n\nIf you have any doubt about a job offer or any other communication purporting to come from Insulet, please reach out to us directly at 978-600-7000.\nIf you receive any type of communication on behalf of Insulet that seems inappropriate or suspicious, please report this activity to: www.iC3.gov or www.stopfraud.gov.",
+					"industry": [
+						{
+							"name": "Medical Device",
+							"entityUrn": "urn:li:fsd_industry:17"
+						}
+					],
+					"url": "https://www.linkedin.com/company/insulet-corporation/",
+					"employeeCountRange": {
+						"start": 1001,
+						"end": 5000
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:25567",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": "Insulet Headquarters",
+						"address": {
+							"country": "US",
+							"geographicArea": "Massachusetts",
+							"city": "Acton",
+							"postalCode": "01720",
+							"line2": null,
+							"line1": "100 Nagog Park"
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:25567",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:25567",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 58897
+					},
+					"croppedCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D563DAQEspw5qiZo1ZA",
+							"artifacts": [
+								{
+									"width": 748,
+									"fileIdentifyingUrlPathSegment": "27_750/0/1673359381706/insulet_corporation_cover?e=1704812400&v=beta&t=PYibDXH8u9wNPt0AW7CklBlD2OiJpGpsGWW3MhqnTMY",
+									"expiresAt": 1704812400000,
+									"height": 127
+								},
+								{
+									"width": 108,
+									"fileIdentifyingUrlPathSegment": "08_640/0/1673359381706/insulet_corporation_cover?e=1704812400&v=beta&t=tgOH-I68KTvmAJGTh9fMvqL2ssOeoOMCb-yUiL4sU1c",
+									"expiresAt": 1704812400000,
+									"height": 18
+								},
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "91_1128/0/1673359381706/insulet_corporation_cover?e=1704812400&v=beta&t=fHDkDkWhdgyLyo8FIS85rRBd4Vc4pK0F3_kRdg3O4g8",
+									"expiresAt": 1704812400000,
+									"height": 191
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D563DAQEspw5qiZo1ZA/image-scale_1"
+						}
+					},
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:25567"
+					},
+					"name": "Insulet Corporation",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C560BAQFp3gv_EovGlA",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1673359516907/insulet_corporation_logo?e=1712188800&v=beta&t=EPcSzQ427VIVPBifA80bjU-ECYH4GeW0xF-TzKWh8as",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1673359516907/insulet_corporation_logo?e=1712188800&v=beta&t=Ye4BEm6biFFxK_l_V-xsqcz3IpW_zNrrOfOIppXxIOI",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1673359516907/insulet_corporation_logo?e=1712188800&v=beta&t=DUCd1vtoJ9Fer663hZaq-weXbPI2jfUgHYGidLNPVk0",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C560BAQFp3gv_EovGlA/company-logo_"
+						}
+					},
+					"universalName": "insulet-corporation"
+				},
+				{
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D561BAQGEP2hnbWSzyw",
+							"artifacts": [
+								{
+									"width": 1600,
+									"fileIdentifyingUrlPathSegment": "10000/0/1703812302748/genai_works_cover?e=1704812400&v=beta&t=g4yIn-23lbQsNMr7peVpnYAlZxX8OUpQYWe6Tu3RZk4",
+									"expiresAt": 1704812400000,
+									"height": 400
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1703812302748/genai_works_cover?e=1704812400&v=beta&t=LwIOzEYpVwTvwsg_lQp5kluGhls3nJy9lyZqxYm7aTY",
+									"expiresAt": 1704812400000,
+									"height": 100
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1703812302748/genai_works_cover?e=1704812400&v=beta&t=DOnz8_kECMPE0BjoVlnUqYCOsXEPqDX982a5foBBsnw",
+									"expiresAt": 1704812400000,
+									"height": 50
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D561BAQGEP2hnbWSzyw/company-background_"
+						}
+					},
+					"industryV2Taxonomy": [
+						{
+							"name": "Technology, Information and Internet",
+							"entityUrn": "urn:li:fsd_industryV2:6"
+						}
+					],
+					"description": "Stay updated with ChatGPT and Generative Al news. \n\nGenerative artificial intelligence (AI) describes algorithms (such as ChatGPT, Midjourney, DALLE, and ...) that can be used to create new content, including audio, code, images, text, simulations, and videos. \n\nCollaboration or other inquiries please use the contact us button.",
+					"industry": [
+						{
+							"name": "Computer Software",
+							"entityUrn": "urn:li:fsd_industry:4"
+						}
+					],
+					"url": "https://www.linkedin.com/company/genai-works/",
+					"employeeCountRange": {
+						"start": 2,
+						"end": 10
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:70502230",
+					"headquarter": {
+						"streetAddressOptOut": true,
+						"description": "Headquarters",
+						"address": {
+							"country": "US",
+							"geographicArea": null,
+							"city": "San Francisco",
+							"postalCode": null,
+							"line2": null,
+							"line1": null
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:70502230",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:70502230",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 2169583
+					},
+					"croppedCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D563DAQHug-JKVYsAyQ",
+							"artifacts": [
+								{
+									"width": 749,
+									"fileIdentifyingUrlPathSegment": "27_750/0/1703812302736/genai_works_cover?e=1704812400&v=beta&t=VV33eWUWgR7FEXPR8j_D5OzHKKYisAkp-hVOd1Pk5NQ",
+									"expiresAt": 1704812400000,
+									"height": 127
+								},
+								{
+									"width": 108,
+									"fileIdentifyingUrlPathSegment": "08_640/0/1703812302736/genai_works_cover?e=1704812400&v=beta&t=CQa8Wo-yYiamJM4_H4ZWqyTeTk5dVkMLr3yopUAQkAs",
+									"expiresAt": 1704812400000,
+									"height": 18
+								},
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "91_1128/0/1703812302736/genai_works_cover?e=1704812400&v=beta&t=QN7ZBxBrHoiB1IZZygt8jPA4ziuWLoNxLs5hQqickV0",
+									"expiresAt": 1704812400000,
+									"height": 191
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D563DAQHug-JKVYsAyQ/image-scale_1"
+						}
+					},
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:70502230"
+					},
+					"name": "Generative AI",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D560BAQGHo043LjzM8A",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1703811016730/genai_works_logo?e=1712188800&v=beta&t=mF1tnVcz4Oxc9Q1M7fNTFqmt5Qa1HrrY7K-0_O2fo38",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1703811016730/genai_works_logo?e=1712188800&v=beta&t=EYvpqmWElK8wHoh0GlzE11YtTHYJ_64IIMqD5o0EIh0",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1703811016730/genai_works_logo?e=1712188800&v=beta&t=95jVTcmIMtzM4RZtjOPgj88DkhTAEBcZdw8FhVP9jvQ",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D560BAQGHo043LjzM8A/company-logo_"
+						}
+					},
+					"universalName": "genai-works"
+				},
+				{
+					"industryV2Taxonomy": [
+						{
+							"name": "Medical Equipment Manufacturing",
+							"entityUrn": "urn:li:fsd_industryV2:17"
+						}
+					],
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D561BAQEak5PoWkL5xQ",
+							"artifacts": [
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "10000/0/1702336428182/medtronicdiabetes_cover?e=1704812400&v=beta&t=h3RpBURVTcl77p7B291QEkbPXQdxafBInHWntk1reOk",
+									"expiresAt": 1704812400000,
+									"height": 191
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1702336428182/medtronicdiabetes_cover?e=1704812400&v=beta&t=I0XGOb_jwSRfFyLlUibMlx-A_w_120cZCyUkRgd3CgM",
+									"expiresAt": 1704812400000,
+									"height": 67
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1702336428182/medtronicdiabetes_cover?e=1704812400&v=beta&t=RMhjAvaEc_15Rq4wseEKvDjpJRFGmvFVMpNbag99Pbs",
+									"expiresAt": 1704812400000,
+									"height": 33
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D561BAQEak5PoWkL5xQ/company-background_"
+						}
+					},
+					"description": "For more than 35 years, Medtronic Diabetes has continued to drive innovation, including new insulin delivery solutions. We are committed to innovating further. With a renewed focus on creating products that are easy to use, we hope our future technologies will enable people to focus more on life, and not diabetes. Medtronic MiniMed, inc. is a wholly owned subsidiary of Medtronic, Inc.\n\n\nConnect with us!  \nFacebook @ www.facebook.com/medtronicdiabetes\nInstagram @ www.instagram.com/medtronicdiabetes/\nTwitter @ https://twitter.com/MDT_Diabetes\nYouTube @ https://www.youtube.com/c/MedtronicDiabetesUS",
+					"industry": [
+						{
+							"name": "Medical Device",
+							"entityUrn": "urn:li:fsd_industry:17"
+						}
+					],
+					"url": "https://www.linkedin.com/company/medtronicdiabetes/",
+					"employeeCountRange": {
+						"start": 5001,
+						"end": 10000
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:3713354",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": null,
+						"address": {
+							"country": "US",
+							"geographicArea": "Minnesota",
+							"city": "Minneapolis",
+							"postalCode": "55432-5604",
+							"line2": null,
+							"line1": "710 Medtronic Parkway   "
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3713354",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:3713354",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 24050
+					},
+					"croppedCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D563DAQHNiUXdjX-DVA",
+							"artifacts": [
+								{
+									"width": 748,
+									"fileIdentifyingUrlPathSegment": "27_750/0/1702336428139/medtronicdiabetes_cover?e=1704812400&v=beta&t=TIEPcLwVNMfU1LIfeKzWEdwmZSkcJhRG1nJvYkd_LQk",
+									"expiresAt": 1704812400000,
+									"height": 127
+								},
+								{
+									"width": 108,
+									"fileIdentifyingUrlPathSegment": "08_640/0/1702336428139/medtronicdiabetes_cover?e=1704812400&v=beta&t=K3H497wRJ2_qahactJ6DSWHTqnVqzUtr59w5KAJNfMc",
+									"expiresAt": 1704812400000,
+									"height": 18
+								},
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "91_1128/0/1702336428139/medtronicdiabetes_cover?e=1704812400&v=beta&t=aMuZz5EHu4OOplMb38kRXoyJ5WEAyhv2LuvZI_Gx6Rw",
+									"expiresAt": 1704812400000,
+									"height": 191
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D563DAQHNiUXdjX-DVA/image-scale_1"
+						}
+					},
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:3713354"
+					},
+					"name": "Medtronic Diabetes",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D560BAQEpuLAIxHp84g",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1681237819637/medtronicdiabetes_logo?e=1712188800&v=beta&t=PdD1lhDeUC4En1euon61A_El-1CDlHvWdExDYyvtZ78",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1681237819638/medtronicdiabetes_logo?e=1712188800&v=beta&t=nUrRIv3_b9GNBM0Y-zjzQjiRnL1SudMJEJ2GvMJVHlc",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1681237819638/medtronicdiabetes_logo?e=1712188800&v=beta&t=yMgvskqXbip2wHtTF-2gGPchWrRwKUuUbON1eLmrxoY",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D560BAQEpuLAIxHp84g/company-logo_"
+						}
+					},
+					"universalName": "medtronicdiabetes"
+				},
+				{
+					"industryV2Taxonomy": [
+						{
+							"name": "Medical Equipment Manufacturing",
+							"entityUrn": "urn:li:fsd_industryV2:17"
+						}
+					],
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D561BAQG6lL3dLetzeQ",
+							"artifacts": [
+								{
+									"width": 2256,
+									"fileIdentifyingUrlPathSegment": "10000/0/1691417650001/cequr_cover?e=1704812400&v=beta&t=0_EH1i5uiMYzWE5qPGFySsTiaTqKKNmg-QEhaiqo4vo",
+									"expiresAt": 1704812400000,
+									"height": 382
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1691417650001/cequr_cover?e=1704812400&v=beta&t=TYxA0yECwE6pqy98-3zr2pt68qfF5A2hPhjcs2m0tCQ",
+									"expiresAt": 1704812400000,
+									"height": 67
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1691417650001/cequr_cover?e=1704812400&v=beta&t=vwUob1sNnc5RbAzw382AuCWjQsfIzZRoWMvtbNKn1CU",
+									"expiresAt": 1704812400000,
+									"height": 33
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D561BAQG6lL3dLetzeQ/company-background_"
+						}
+					},
+					"description": "CeQur is dedicated to helping people with diabetes by developing and commercializing simple drug delivery devices that can be easily integrated into daily life. The company has a platform of an extremely simple, discrete and wearable, 3-day device with the first generation being FDA cleared and CE marked.\n\nIn July 2018, CeQur decided to focus its efforts to bring to market a unique and extremely simple 3-day bolus insulin delivery device, called CeQur Simplicity. This device allows a person to administer insulin in a simple, discreet way by just clicking the two buttons. It is extremely slim and is virtually undetectable under clothing. Bolusing can be done over clothing, so there is no reason to step away from friends to discreetly deliver a dose. (www.myceqursimplicity.com). CeQur Simplicity is designed to revolutionize insulin delivery by providing a convenient, discreet and inject free solution to insulin delivery that is easy to teach and prescribe. The word “revolutionize” is key. In a world full of complex devices - Simplicity makes it extremely easy to take insulin and ensure compliance to therapy. \n\nThe 3-day bolus device is FDA cleared for adults requiring insulin and is currently in a pilot launch stage in 2021. We are working with select physicians and centers to bring this innovative technology to patients. The CeQur Simplicity device will be available broadly soon. CeQur Simplicity device has been tested in three clinical studies that demonstrated the device is effective, safe and easy to use. Moreover the studies highlighted that it has high patient satisfaction over daily injections and strong participant desire to stay on the wearable bolus device versus going back to injections. \n\nCeQur is headquartered in Horw, Switzerland, with operations in Marlborough, Massachusetts.",
+					"industry": [
+						{
+							"name": "Medical Device",
+							"entityUrn": "urn:li:fsd_industry:17"
+						}
+					],
+					"url": "https://www.linkedin.com/company/cequr/",
+					"employeeCountRange": {
+						"start": 51,
+						"end": 200
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:356377",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": null,
+						"address": {
+							"country": "CH",
+							"geographicArea": null,
+							"city": "Horw",
+							"postalCode": "6048",
+							"line2": "Altsagenstrasse 5",
+							"line1": "CeQur SA"
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:356377",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:356377",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 6388
+					},
+					"croppedCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D563DAQFU5uuex1C98Q",
+							"artifacts": [
+								{
+									"width": 749,
+									"fileIdentifyingUrlPathSegment": "27_750/0/1691417650042/cequr_cover?e=1704812400&v=beta&t=4Fqi8l6YqEvoLWco1rzbxFlF59R403ns_q3BTVUHpFE",
+									"expiresAt": 1704812400000,
+									"height": 127
+								},
+								{
+									"width": 108,
+									"fileIdentifyingUrlPathSegment": "08_640/0/1691417650042/cequr_cover?e=1704812400&v=beta&t=F9H_Pu9NWEpQSg2K4PsZf9oEz-m3ECYGa-3P0cumomc",
+									"expiresAt": 1704812400000,
+									"height": 18
+								},
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "91_1128/0/1691417650042/cequr_cover?e=1704812400&v=beta&t=wGSOOX1wrBqL-t-Z_WLfVabiCMMQAFaT1A0DSdAEJpM",
+									"expiresAt": 1704812400000,
+									"height": 191
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D563DAQFU5uuex1C98Q/image-scale_1"
+						}
+					},
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:356377"
+					},
+					"name": "CeQur",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C4E0BAQEsQHj-Dyh5jQ",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1630597865888/cequr_logo?e=1712188800&v=beta&t=xdKCesnRLsy1HC5JIEzyS3-zerLfntfdNR1oTi6ZqbY",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1630597865888/cequr_logo?e=1712188800&v=beta&t=wVxWEYYKhDK4mjpo40evIJEb-zN2oGqsj395oBqckvs",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1630597865888/cequr_logo?e=1712188800&v=beta&t=eKK-auKH7btbH-vFj9GFS7nmSYZNGPlzg_QMMFAY2lg",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C4E0BAQEsQHj-Dyh5jQ/company-logo_"
+						}
+					},
+					"universalName": "cequr"
+				},
+				{
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D561BAQHKsbI6Wu6YPQ",
+							"artifacts": [
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "10000/0/1703006736150/beta_bionics_cover?e=1704812400&v=beta&t=W0-ZT_10V4O551taiFx8mxQXP21LphQz4bgqoM9cdbA",
+									"expiresAt": 1704812400000,
+									"height": 191
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1703006736150/beta_bionics_cover?e=1704812400&v=beta&t=TMDhWvKgPTNuJNxiuVxU76YFJ5vnPeRqrPii6P7ViP0",
+									"expiresAt": 1704812400000,
+									"height": 67
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1703006736150/beta_bionics_cover?e=1704812400&v=beta&t=S-5OjLJx65iQxekcGbjbsU7TVc-S8jIUCIulZnhrGlo",
+									"expiresAt": 1704812400000,
+									"height": 33
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D561BAQHKsbI6Wu6YPQ/company-background_"
+						}
+					},
+					"industryV2Taxonomy": [
+						{
+							"name": "Biotechnology",
+							"entityUrn": "urn:li:fsd_industryV2:3238"
+						}
+					],
+					"description": "Beta Bionics is a medical technology company focused on the design, development, and commercialization of the iLet Bionic Pancreas and the bihormonal configuration. The iLet is the first and only insulin delivery system that does not require carb counting*, bolusing, correction factors, or pre-set basal rates.  The only number needed to get started with the iLet Bionic Pancreas is a user’s weight – the iLet does the rest. The iLet lets users “Go Bionic” with their diabetes management.\n\nBeta Bionics is a for-profit, public benefit corporation and Certified B Corporation. Since its founding in 2015, its mission has been to help improve health outcomes and the quality of life of children and adults living with diabetes and other conditions of glycemic dysregulation.\n\n*Users must be carb aware.",
+					"industry": [
+						{
+							"name": "Biotechnology",
+							"entityUrn": "urn:li:fsd_industry:12"
+						}
+					],
+					"url": "https://www.linkedin.com/company/beta-bionics/",
+					"employeeCountRange": {
+						"start": 51,
+						"end": 200
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:10848916",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": null,
+						"address": {
+							"country": "US",
+							"geographicArea": "CA",
+							"city": "Irvine",
+							"postalCode": "92618",
+							"line2": null,
+							"line1": "11 Hughes"
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:10848916",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:10848916",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 9462
+					},
+					"croppedCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D563DAQG_b4H0AO-eUA",
+							"artifacts": [
+								{
+									"width": 748,
+									"fileIdentifyingUrlPathSegment": "27_750/0/1703006736120/beta_bionics_cover?e=1704812400&v=beta&t=Sij-oextbnoZdfyzyr-lNEdrxva4QTeJojrLUPcVIHQ",
+									"expiresAt": 1704812400000,
+									"height": 127
+								},
+								{
+									"width": 108,
+									"fileIdentifyingUrlPathSegment": "08_640/0/1703006736120/beta_bionics_cover?e=1704812400&v=beta&t=Vp2J7JnXy7B8wgBVCd0SpE-Erh1NwhP1NcCXlCM-MJ0",
+									"expiresAt": 1704812400000,
+									"height": 18
+								},
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "91_1128/0/1703006736120/beta_bionics_cover?e=1704812400&v=beta&t=7AWeDKVNTfwGLonCIGeFaY_Pa1pE0zyKCQPvfONx0Tc",
+									"expiresAt": 1704812400000,
+									"height": 191
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D563DAQG_b4H0AO-eUA/image-scale_1"
+						}
+					},
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:10848916"
+					},
+					"name": "Beta Bionics",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D560BAQFjVa-5P7Cyhw",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1703006888070/beta_bionics_logo?e=1712188800&v=beta&t=PKnFNx7hk7QyXw6VVxjLLm2_8luycodeUGb9Qu09dv4",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1703006888070/beta_bionics_logo?e=1712188800&v=beta&t=rzAq1GU2cnzViLKnsYx5Fz6wDDZOmSJdL8a-oabMU-c",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1703006888070/beta_bionics_logo?e=1712188800&v=beta&t=9ajlnQpSJSI0wlprrh7QOIa45w6IVZC2oSCtk1a78QE",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D560BAQFjVa-5P7Cyhw/company-logo_"
+						}
+					},
+					"universalName": "beta-bionics"
+				},
+				{
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C4E1BAQFfivtlYpmImA",
+							"artifacts": [
+								{
+									"width": 1536,
+									"fileIdentifyingUrlPathSegment": "10000/0/1584984098096/adcesdiabetes_cover?e=1704812400&v=beta&t=3Pic_HBLGlxCe4t9NAT9EyBe_Pt0WQDKg7epJ8ifO4g",
+									"expiresAt": 1704812400000,
+									"height": 768
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1584984098096/adcesdiabetes_cover?e=1704812400&v=beta&t=iHBWOJoFsPv_amiNENPliWrzI3G13V5CLay-vg4r1Gs",
+									"expiresAt": 1704812400000,
+									"height": 200
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1584984098096/adcesdiabetes_cover?e=1704812400&v=beta&t=g4HVmAZG4i72ghTGPKz2LOwHpKBZGoWD-G_kHDMbra4",
+									"expiresAt": 1704812400000,
+									"height": 100
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C4E1BAQFfivtlYpmImA/company-background_"
+						}
+					},
+					"industryV2Taxonomy": [
+						{
+							"name": "Non-profit Organizations",
+							"entityUrn": "urn:li:fsd_industryV2:100"
+						}
+					],
+					"description": "ADCES is a multidisciplinary membership organization of healthcare professionals dedicated to improving diabetes care through education and behavior change interventions. \n\nWe are dedicated to driving practice to promote healthy living through self-management of diabetes and related chronic conditions.\n\nWith over 14,000 members including nurses, dietitians, pharmacists, and others, ADCES is committed to integrating successful self-management as a key outcome in the care of people with diabetes and related conditions.",
+					"industry": [
+						{
+							"name": "Non-profit Organization Management",
+							"entityUrn": "urn:li:fsd_industry:100"
+						}
+					],
+					"url": "https://www.linkedin.com/company/adcesdiabetes/",
+					"employeeCountRange": {
+						"start": 51,
+						"end": 200
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:72400",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": null,
+						"address": {
+							"country": "US",
+							"geographicArea": "Illinois",
+							"city": "Chicago",
+							"postalCode": "60606",
+							"line2": "600",
+							"line1": "125 S Wacker Dr"
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:72400",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:72400",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 22916
+					},
+					"croppedCoverImage": null,
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:72400"
+					},
+					"name": "Association of Diabetes Care & Education Specialists",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C4E0BAQHU4YyEXRgpCw",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1630578708238/adcesdiabetes_logo?e=1712188800&v=beta&t=N8YgHT9niHjbkxOWtyRRXjmLznBU9vYLtvZeau1NgBA",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1630578708238/adcesdiabetes_logo?e=1712188800&v=beta&t=S7hI6RuTR0XiREVOg4EOxRgPJRCMl2Apbt9OcBw023E",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1630578708238/adcesdiabetes_logo?e=1712188800&v=beta&t=55fLrHCml1l9f2ERFjM_Do8F76uXLo-vuqTs32qqTFM",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHU4YyEXRgpCw/company-logo_"
+						}
+					},
+					"universalName": "adcesdiabetes"
+				},
+				{
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C511BAQHJoibKMKF4PQ",
+							"artifacts": [
+								{
+									"width": 1584,
+									"fileIdentifyingUrlPathSegment": "10000/0/1584100602100/appinventiv_cover?e=1704812400&v=beta&t=XHSB1iH3fZj1NGPWr2ZAVnvR6IdUesR982mM0KSB908",
+									"expiresAt": 1704812400000,
+									"height": 396
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1584100602139/appinventiv_cover?e=1704812400&v=beta&t=64mIIIA3Rw-xy0h6HtbCtwK6wQkomFgCaOwOQiHfsxU",
+									"expiresAt": 1704812400000,
+									"height": 100
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1584100602167/appinventiv_cover?e=1704812400&v=beta&t=Zel0trAcAIjJC62MR6K0M9beiCX1ZgwB3AIFHjuxnZI",
+									"expiresAt": 1704812400000,
+									"height": 50
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C511BAQHJoibKMKF4PQ/company-background_"
+						}
+					},
+					"industryV2Taxonomy": [
+						{
+							"name": "IT Services and IT Consulting",
+							"entityUrn": "urn:li:fsd_industryV2:96"
+						}
+					],
+					"description": "Appinventiv redefines mobile experiences- through transformation aided by technology. We are the leading global product development and digital transformation agency that’s empowering disruptive startups and fortune companies in bridging the gap between ideas and reality through new-age technology. \n\nWe are a team of passionate 1500+ mobile experts who dream, architect, design and develop with one relentless pursuit- to craft innovative solutions and deliver unparalleled results.\n\nBreaking all growth records, we believe our innovative work Culture and approach towards next-gen technologies is what drives us and makes us one of the most trusted & fastest growing companies in the Industry.\n\n1500+ Creative Techies | 2000+ Successful Apps Developed | Best Place To Work 2022 | App Development Company of the year 2020 | Most Promising Mobile App Solution Providers | Ranked #1 on Multiple B2B Portals | ISO Certified | Quick Delivery track record | Global presence | Passion for Innovation & Quality | Proactive Implementation | Rich User Experience\n\nOur Services\n\n-Digital Transformation & Product Engineering\n   1)Digital Transformation Consulting\n   2)Product Innovation Lab\n   3)Customer Experience Design\n   4)Custom Application Development\n   5)Microservices\n\n-Mobility\n   1)Product Consulting\n   2)Mobile First Designing\n   3)Native & Hybrid Mobile Applications Development\n   4)PWA Development\n   5)Wearables Applications Development\n\n-Cloud & DevOps\n   1)Cloud & DevOps Professional Services\n   2)DevOps as Service\n   3)Managed Services\n   4)Cloud Native Solutions\n   5)SecOps\n\n-Blockchain Development\n   1)Blockchain Solutions Consulting\n   2)End to End DApp Development\n   3)Non custodial Crypto Wallets, Exchanges and Smart Contracts  Development\n   4)L1 and L2 solution development\n   5)NFT Minting Websites & Marketplaces\n   6)DeFi dapp and protocol development\n\n-Data & Analytics\n   1)Data Engineering\n   2)Business Intelligence & Analytics\n   3)Data Science & ML\n",
+					"industry": [
+						{
+							"name": "Information Technology & Services",
+							"entityUrn": "urn:li:fsd_industry:96"
+						}
+					],
+					"url": "https://www.linkedin.com/company/appinventiv/",
+					"employeeCountRange": {
+						"start": 501,
+						"end": 1000
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:9322687",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": "Appinventiv",
+						"address": {
+							"country": "IN",
+							"geographicArea": "Uttar Pradesh",
+							"city": "Noida",
+							"postalCode": "201301",
+							"line2": "Sector-58",
+							"line1": "B-25"
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:9322687",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:9322687",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 357228
+					},
+					"croppedCoverImage": null,
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:9322687"
+					},
+					"name": "Appinventiv",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D560BAQEF-2oiGn74NA",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1703662104310/appinventiv_logo?e=1712188800&v=beta&t=4-GXdggcXrlIyRDJ-paxLxPZOUCeUjPKgI7Juf6uRig",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1703662104310/appinventiv_logo?e=1712188800&v=beta&t=8fyX0UhI19KqSXeoNy4C6Est2yzrzaa2dwW9acZJ8cM",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1703662104310/appinventiv_logo?e=1712188800&v=beta&t=EWzfqhJQVZir5wlFv2rpsYxRf7sZxb7cOCKU1fF7x2Q",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D560BAQEF-2oiGn74NA/company-logo_"
+						}
+					},
+					"universalName": "appinventiv"
+				},
+				{
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C4E1BAQFhVVwba1SkYg",
+							"artifacts": [
+								{
+									"width": 1504,
+									"fileIdentifyingUrlPathSegment": "10000/0/1603850543985/t1d_exchange_cover?e=1704812400&v=beta&t=oi9EFyP88ekZ4dRlFJkuPd9TSgWRxceQOQKtvQjQxdE",
+									"expiresAt": 1704812400000,
+									"height": 377
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1603850543985/t1d_exchange_cover?e=1704812400&v=beta&t=1cCU52dWO8MtTHuu7C1aGAgWLPKg4WFGyAwQoqRDozI",
+									"expiresAt": 1704812400000,
+									"height": 100
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1603850543985/t1d_exchange_cover?e=1704812400&v=beta&t=7cC1Me19nZU4vX77OPSZZ7mIf5Xd_uE77xFerkwCC0E",
+									"expiresAt": 1704812400000,
+									"height": 50
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C4E1BAQFhVVwba1SkYg/company-background_"
+						}
+					},
+					"industryV2Taxonomy": [
+						{
+							"name": "Hospitals and Health Care",
+							"entityUrn": "urn:li:fsd_industryV2:14"
+						}
+					],
+					"description": "T1D Exchange is a nonprofit organization that drives meaningful research and innovation in the treatment and prevention of type 1 diabetes (T1D). Through quality improvement and collaboration, we harness data and insights to advance T1D care, identify gaps in data and unmet needs in diabetes care, refine best practices and ultimately improve the care and quality of life of those living with T1D.",
+					"industry": [
+						{
+							"name": "Hospital & Health Care",
+							"entityUrn": "urn:li:fsd_industry:14"
+						}
+					],
+					"url": "https://www.linkedin.com/company/t1d-exchange/",
+					"employeeCountRange": {
+						"start": 11,
+						"end": 50
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:2318764",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": null,
+						"address": {
+							"country": "US",
+							"geographicArea": "MA",
+							"city": "Boston",
+							"postalCode": "02110",
+							"line2": "Suite 440 ",
+							"line1": "101 Federal St"
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:2318764",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:2318764",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 8480
+					},
+					"croppedCoverImage": null,
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:2318764"
+					},
+					"name": "T1D Exchange",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C4E0BAQGOwbvIEIb-4g",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1630613650991/t1d_exchange_logo?e=1712188800&v=beta&t=LzVLJx-SDdYC-q2Z6Z5mgleblyxUtBMqNo_8Hxsb7EQ",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1630613650991/t1d_exchange_logo?e=1712188800&v=beta&t=-lqNR30MZ_OIWlUTgzSjT4v6IH0zyhkEJP8YHyzYaJc",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1630613650991/t1d_exchange_logo?e=1712188800&v=beta&t=EpuAXtfI_1x0kT9nSa6pgHH6lTaRc15zK7QzAq4TKfo",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C4E0BAQGOwbvIEIb-4g/company-logo_"
+						}
+					},
+					"universalName": "t1d-exchange"
+				},
+				{
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D561BAQFLqjTbVwaoiA",
+							"artifacts": [
+								{
+									"width": 4700,
+									"fileIdentifyingUrlPathSegment": "10000/0/1693571935574/nuvasive_cover?e=1704812400&v=beta&t=Lm0vM2hEyRLA9edPt-zD9hOTKRXyj7FrIQinq51HAFo",
+									"expiresAt": 1704812400000,
+									"height": 796
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1693571935574/nuvasive_cover?e=1704812400&v=beta&t=nwA5Y9VAmX1pcTyRwvHixTXtKNoM4YGhCYt-DFe1q9k",
+									"expiresAt": 1704812400000,
+									"height": 67
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1693571935574/nuvasive_cover?e=1704812400&v=beta&t=hpzgDytpHF1WLdZM8RS6W-hKEwtdWCV-Wf1R8P7upEc",
+									"expiresAt": 1704812400000,
+									"height": 33
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D561BAQFLqjTbVwaoiA/company-background_"
+						}
+					},
+					"industryV2Taxonomy": [
+						{
+							"name": "Medical Device",
+							"entityUrn": "urn:li:fsd_industryV2:3217"
+						}
+					],
+					"description": "Globus Medical and NuVasive have officially joined forces. We’re committed to providing innovative technologies and industry-leading clinical support to help surgeons and healthcare providers deliver better care around the globe. We now have one of the most comprehensive offerings of musculoskeletal procedural solutions and enabling technologies to impact the care continuum. Our employees are relentlessly focused on changing patient lives.\n\nFor more information, visit https://www.globusmedical.com/Uniting\n\nInterested in joining us? See some of our current opportunities under our Careers tab, or visit www.nuvasive.com/Careers to apply today.",
+					"industry": [
+						{
+							"name": "Medical Device",
+							"entityUrn": "urn:li:fsd_industry:17"
+						}
+					],
+					"url": "https://www.linkedin.com/company/nuvasive/",
+					"employeeCountRange": {
+						"start": 1001,
+						"end": 5000
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:165260",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": "Global Headquarters",
+						"address": {
+							"country": "US",
+							"geographicArea": "CA",
+							"city": "San Diego",
+							"postalCode": "92121",
+							"line2": null,
+							"line1": "7475 Lusk Blvd"
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:165260",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:165260",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 109801
+					},
+					"croppedCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D563DAQHqD203IN1nfg",
+							"artifacts": [
+								{
+									"width": 749,
+									"fileIdentifyingUrlPathSegment": "27_750/0/1693571935260/nuvasive_cover?e=1704812400&v=beta&t=ocpWgdyKYuBvz5MimLDrr1w0nlNtwTM2B8YyCxJvGJM",
+									"expiresAt": 1704812400000,
+									"height": 127
+								},
+								{
+									"width": 108,
+									"fileIdentifyingUrlPathSegment": "08_640/0/1693571935260/nuvasive_cover?e=1704812400&v=beta&t=ba7OsAiY7-DZWMZX1WxMAhxIhA7inaQ0lH-NGK0afcU",
+									"expiresAt": 1704812400000,
+									"height": 18
+								},
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "91_1128/0/1693571935260/nuvasive_cover?e=1704812400&v=beta&t=dnc5PWQ5iA7whTQdYoP5fIxS3ztfEOTNatSr86gYOqI",
+									"expiresAt": 1704812400000,
+									"height": 191
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D563DAQHqD203IN1nfg/image-scale_1"
+						}
+					},
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:165260"
+					},
+					"name": "NuVasive",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D560BAQFp4yxnVH3GWQ",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1682963719086/nuvasive_logo?e=1712188800&v=beta&t=UWLUSkC-ZjmAQauCq1PCsfJfMHGc5kNedLMgmhwwHC8",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1682963719086/nuvasive_logo?e=1712188800&v=beta&t=zIsodsA8b7SOIafFC66lNBzxcz5pZnZTarjLoBa2b98",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1682963719087/nuvasive_logo?e=1712188800&v=beta&t=NIKHetmLHk-7SOnjvySSGeBxzEhBpEKfZuNZT40va2M",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D560BAQFp4yxnVH3GWQ/company-logo_"
+						}
+					},
+					"universalName": "nuvasive"
+				},
+				{
+					"industryV2Taxonomy": [
+						{
+							"name": "Medical Equipment Manufacturing",
+							"entityUrn": "urn:li:fsd_industryV2:17"
+						}
+					],
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D561BAQHavHWcaVASSQ",
+							"artifacts": [
+								{
+									"width": 1584,
+									"fileIdentifyingUrlPathSegment": "10000/0/1698694364530/intuitivesurgical_cover?e=1704812400&v=beta&t=-eSyU0eovXHPovZl1wDkYk5e2mlFrviZn_JnWngQqDg",
+									"expiresAt": 1704812400000,
+									"height": 396
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1698694364531/intuitivesurgical_cover?e=1704812400&v=beta&t=ETSSfG-rPLkAuVddXlEE9nnYcqpeszfJjy_bY-E87Jc",
+									"expiresAt": 1704812400000,
+									"height": 100
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1698694364531/intuitivesurgical_cover?e=1704812400&v=beta&t=gy0abkmxhrGBStxp6FnIJIz8QBuBhI77p9t5CP0NdlQ",
+									"expiresAt": 1704812400000,
+									"height": 50
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D561BAQHavHWcaVASSQ/company-background_"
+						}
+					},
+					"description": "Intuitive (Nasdaq: ISRG), headquartered in Sunnyvale, Calif., is a global technology leader in minimally invasive care and the pioneer of robotic-assisted surgery. At Intuitive, we believe that minimally invasive care is life-enhancing care. Through ingenuity and intelligent technology, we expand the potential of physicians to heal without constraints.",
+					"industry": [
+						{
+							"name": "Medical Device",
+							"entityUrn": "urn:li:fsd_industry:17"
+						}
+					],
+					"url": "https://www.linkedin.com/company/intuitivesurgical/",
+					"employeeCountRange": {
+						"start": 5001,
+						"end": 10000
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:9561",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": "Intuitive Surgical Global Headquarters",
+						"address": {
+							"country": "US",
+							"geographicArea": "94086",
+							"city": "California",
+							"postalCode": null,
+							"line2": "Sunnyvale",
+							"line1": "1020 Kifer Road, Building 108"
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:9561",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:9561",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 263317
+					},
+					"croppedCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D563DAQHrgiSN68oqDg",
+							"artifacts": [
+								{
+									"width": 750,
+									"fileIdentifyingUrlPathSegment": "27_750/0/1698694364533/intuitivesurgical_cover?e=1704812400&v=beta&t=Bq_4d5VYaA2Wl6Cccr1hiV6lgpf3qWOEps1km3DC4nU",
+									"expiresAt": 1704812400000,
+									"height": 126
+								},
+								{
+									"width": 108,
+									"fileIdentifyingUrlPathSegment": "08_640/0/1698694364533/intuitivesurgical_cover?e=1704812400&v=beta&t=TdErvpFNgv8If40HITEOaJGdRzDcKIY0hs8B2fs9euY",
+									"expiresAt": 1704812400000,
+									"height": 18
+								},
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "91_1128/0/1698694364533/intuitivesurgical_cover?e=1704812400&v=beta&t=wop8B7Kch78Og75bELYxvl4Jx_uo4y7J56O0pX4sK54",
+									"expiresAt": 1704812400000,
+									"height": 191
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D563DAQHrgiSN68oqDg/image-scale_1"
+						}
+					},
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:9561"
+					},
+					"name": "Intuitive",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C560BAQE2wfXIjiCzWA",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1630649619968/intuitivesurgical_logo?e=1712188800&v=beta&t=ourTy1dduPJAcodwi6fhaAVMEFCiW69o_yS89Wj6SPk",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1630649619968/intuitivesurgical_logo?e=1712188800&v=beta&t=kcXLXwWUIlPuGlJ8KyCtzFmhzftV4dkvzTzftz4gIFs",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1630649619968/intuitivesurgical_logo?e=1712188800&v=beta&t=0Ik_cw3EsLPiyD2rOF1J8JOOAnpyd40MCB5Lr9817SI",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C560BAQE2wfXIjiCzWA/company-logo_"
+						}
+					},
+					"universalName": "intuitivesurgical"
+				},
+				{
+					"industryV2Taxonomy": [
+						{
+							"name": "Medical Equipment Manufacturing",
+							"entityUrn": "urn:li:fsd_industryV2:17"
+						}
+					],
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D4E1BAQFcIRCbgCZtdA",
+							"artifacts": [
+								{
+									"width": 1500,
+									"fileIdentifyingUrlPathSegment": "10000/0/1669928469433/resmed_cover?e=1704812400&v=beta&t=zmqH51NRLYA_AXCJW-ZbBrxldUVRusSXfWaBcP1z7Y8",
+									"expiresAt": 1704812400000,
+									"height": 500
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1669928469433/resmed_cover?e=1704812400&v=beta&t=RcbkvuB-K1tA-HRKDabqG0JTrUzPeRNTW7kJlcVBFk8",
+									"expiresAt": 1704812400000,
+									"height": 133
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1669928469433/resmed_cover?e=1704812400&v=beta&t=oTFEUWbPTxy5HCooeQzpiAz8-s8JQCBVVPasd6t1B3s",
+									"expiresAt": 1704812400000,
+									"height": 66
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D4E1BAQFcIRCbgCZtdA/company-background_"
+						}
+					},
+					"description": "At ResMed (NYSE: RMD, ASX: RMD) we pioneer innovative solutions that treat and keep people out of the hospital, empowering them to live healthier, higher-quality lives. Our cloud-connected medical devices transform care for people with sleep apnea, COPD and other chronic diseases. Our comprehensive out-of-hospital software platforms support the professionals and caregivers who help people stay healthy in the home or care setting of their choice. By enabling better care, we improve quality of life, reduce the impact of chronic disease and lower costs for consumers and healthcare systems in more than 120 countries.",
+					"industry": [
+						{
+							"name": "Medical Device",
+							"entityUrn": "urn:li:fsd_industry:17"
+						}
+					],
+					"url": "https://www.linkedin.com/company/resmed/",
+					"employeeCountRange": {
+						"start": 5001,
+						"end": 10000
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:165716",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": "Global Headquarters",
+						"address": {
+							"country": "US",
+							"geographicArea": "CA",
+							"city": "San Diego",
+							"postalCode": "92123",
+							"line2": null,
+							"line1": "9001 Spectrum Center Blvd."
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:165716",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:165716",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 164455
+					},
+					"croppedCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:D4E3DAQHCTTkpi0H8UQ",
+							"artifacts": [
+								{
+									"width": 750,
+									"fileIdentifyingUrlPathSegment": "27_750/0/1669928469501/resmed_cover?e=1704812400&v=beta&t=jlWTNCOn5KEY8E6V0ILIDqyWbV5zdqotVk-wFy6fAQ0",
+									"expiresAt": 1704812400000,
+									"height": 127
+								},
+								{
+									"width": 108,
+									"fileIdentifyingUrlPathSegment": "08_640/0/1669928469501/resmed_cover?e=1704812400&v=beta&t=D3LdkRVhWU1j6nuUXrR7ecAc7REK0WY0Q4Rp0Jmz0Cs",
+									"expiresAt": 1704812400000,
+									"height": 18
+								},
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "91_1128/0/1669928469501/resmed_cover?e=1704812400&v=beta&t=5XEJ6poUEjlM3JfEcuYeEa-MSZXu8JRRMGVuf8N5en0",
+									"expiresAt": 1704812400000,
+									"height": 191
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/D4E3DAQHCTTkpi0H8UQ/image-scale_1"
+						}
+					},
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:165716"
+					},
+					"name": "ResMed",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C560BAQFDnYiOHN6AbA",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1631378425309?e=1712188800&v=beta&t=3c3B8TObaQDMUv5YLQ1S6PnzhJhkoo6tLQIpH02T_5Y",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1631378425309?e=1712188800&v=beta&t=vLYcsdwaR28Fra-xnl2M1qTgWy8wgCL9NVddSmKD_rg",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1631378425309?e=1712188800&v=beta&t=fHn2SWU9YeO7qaiXq-xeb0ufahDfqYzYiDn-_u94APQ",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C560BAQFDnYiOHN6AbA/company-logo_"
+						}
+					},
+					"universalName": "resmed"
+				},
+				{
+					"originalCoverImage": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C4D1BAQEYeYBddgJDUg",
+							"artifacts": [
+								{
+									"width": 1128,
+									"fileIdentifyingUrlPathSegment": "10000/0/1635176350882/interestingengineering_cover?e=1704812400&v=beta&t=tKUo3t_l7rU4b-x6S5zTWrkIPdQlJdSvaDwrC00hfzs",
+									"expiresAt": 1704812400000,
+									"height": 191
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400/0/1635176350882/interestingengineering_cover?e=1704812400&v=beta&t=q1vwxSRq_5t3mkO1VPjPbgqrjYCL11Z66kUZfufvTGY",
+									"expiresAt": 1704812400000,
+									"height": 67
+								},
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200/0/1635176350882/interestingengineering_cover?e=1704812400&v=beta&t=h2Q5sLUykqr8w6JVLS-07sCb7sr6pkibUiljAuq7GoQ",
+									"expiresAt": 1704812400000,
+									"height": 33
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C4D1BAQEYeYBddgJDUg/company-background_"
+						}
+					},
+					"industryV2Taxonomy": [
+						{
+							"name": "Internet Publishing",
+							"entityUrn": "urn:li:fsd_industryV2:3132"
+						}
+					],
+					"description": "Interesting Engineering is a news publisher. We use innovative storytelling to highlight the inner workings of the latest scientific breakthroughs, technological innovations, and more. We don’t just cover the news -- our articles and videos uncover the mechanisms that made these developments possible.",
+					"industry": [
+						{
+							"name": "Internet",
+							"entityUrn": "urn:li:fsd_industry:6"
+						}
+					],
+					"url": "https://www.linkedin.com/company/interestingengineering/",
+					"employeeCountRange": {
+						"start": 51,
+						"end": 200
+					},
+					"industryV2": [],
+					"entityUrn": "urn:li:fsd_company:10070590",
+					"headquarter": {
+						"streetAddressOptOut": false,
+						"description": "IE Headquarters",
+						"address": {
+							"country": "US",
+							"geographicArea": "NY",
+							"city": "New York",
+							"postalCode": "10036",
+							"line2": "9th floor",
+							"line1": "530 5th Ave"
+						},
+						"headquarter": true
+					},
+					"followingState": {
+						"followeeCount": null,
+						"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_company:10070590",
+						"following": false,
+						"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:company:10070590",
+						"trackingUrn": null,
+						"followingType": null,
+						"followerCount": 2114899
+					},
+					"croppedCoverImage": null,
+					"organizationalPage": {
+						"entityUrn": "urn:li:fsd_organizationalPage:10070590"
+					},
+					"name": "Interesting Engineering",
+					"claimable": false,
+					"logoResolutionResult": {
+						"url": null,
+						"vectorImage": {
+							"attribution": null,
+							"digitalmediaAsset": "urn:li:digitalmediaAsset:C4E0BAQHN9kUtNX_kNw",
+							"artifacts": [
+								{
+									"width": 200,
+									"fileIdentifyingUrlPathSegment": "200_200/0/1635165896390?e=1712188800&v=beta&t=QvXIjOmYPTtzeEwPBk4OV4Me522GX5RJo80Vt6GTknU",
+									"expiresAt": 1712188800000,
+									"height": 200
+								},
+								{
+									"width": 100,
+									"fileIdentifyingUrlPathSegment": "100_100/0/1635165896390?e=1712188800&v=beta&t=l_1cOWoHBPp0apGg9el47XtNoibVad22RHNAiJ-kWW0",
+									"expiresAt": 1712188800000,
+									"height": 100
+								},
+								{
+									"width": 400,
+									"fileIdentifyingUrlPathSegment": "400_400/0/1635165896390?e=1712188800&v=beta&t=8sQnOjiFntpKmUCA7yJJrlEIM2xYl4cBJP5MHcQINIc",
+									"expiresAt": 1712188800000,
+									"height": 400
+								}
+							],
+							"rootUrl": "https://media.licdn.com/dms/image/C4E0BAQHN9kUtNX_kNw/company-logo_"
+						}
+					},
+					"universalName": "interestingengineering"
+				}
+			]
+		},
+		"leadGenFormEntryPoint": null,
+		"phone": null,
+		"name": "Tandem Diabetes Care",
+		"tagline": "Makers of the t:slim X2™ insulin pump with Control-IQ™ technology. ",
+		"preDashEntityUrn": "urn:li:fs_normalized_company:946628",
+		"employeeExperienceSettings": {
+			"myCompanyVisibility": true,
+			"pymkVisibility": "ALL_EMPLOYEES",
+			"myCompanyEmployeeVerificationRequired": false,
+			"canEnableMyCompanyEmployeeVerification": false,
+			"highlightsVisibility": "ALL_EMPLOYEES",
+			"trendingContentVisibility": "ALL_EMPLOYEES",
+			"broadcastsVisibility": "ALL_EMPLOYEES"
+		},
+		"productsAccessible": true,
+		"categoryPage": false,
+		"description": "Tandem Diabetes Care, Inc., a global insulin delivery and diabetes technology company based in San Diego, California, creates new possibilities for people living with diabetes, their loved ones, and healthcare providers through a positively different experience. The company’s human-centered approach to design, development, and support delivers innovative products and services for people who use insulin. Tandem manufactures and sells the t:slim X2 insulin pump with Control-IQ technology. The t:slim X2 is the #1 rated insulin pump and the #1 rated automated insulin delivery system [dQ&A US Patient Panel Q2 2023 (Apr-Jun 2023)].\n\nFor more information, visit tandemdiabetes.com.\n\nSAFETY INFORMATION \nPlease note that this account is not intended to be used for product support or medical advice. If you are having a medical emergency, please dial 911. If you are having an issue with one of our products and need immediate assistance, please call our 24 hour customer support team at 877-801-6901 and press 1 twice. \n\nRX ONLY. BOXED WARNING: Should not be used by people under age 6, or who use less than 10 units of insulin/day, or who weigh less than 55 lbs. For boxed warning and safety information, see tandemdiabetes.com/safetyinfo.\n",
+		"archived": false,
+		"pageType": "COMPANY",
+		"websiteUrl": "http://www.tandemdiabetes.com",
+		"universalName": "tandemdiabetes",
+		"hashtag": [
+			{
+				"entityUrn": "urn:li:fsd_hashtag:(t1d,urn:li:activity:-)",
+				"displayName": "#t1d",
+				"followingState": {
+					"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:(t1d,urn:li:activity:-)",
+					"followerCount": 414,
+					"following": false,
+					"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:hashtag:t1d"
+				},
+				"trackingUrn": "urn:li:hashtag:t1d",
+				"actionTarget": "https://www.linkedin.com/feed/hashtag/?keywords=t1d"
+			},
+			{
+				"entityUrn": "urn:li:fsd_hashtag:(diabetes,urn:li:activity:-)",
+				"displayName": "#diabetes",
+				"followingState": {
+					"entityUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:(diabetes,urn:li:activity:-)",
+					"followerCount": 10204,
+					"following": false,
+					"preDashFollowingInfoUrn": "urn:li:fs_followingInfo:urn:li:hashtag:diabetes"
+				},
+				"trackingUrn": "urn:li:hashtag:diabetes",
+				"actionTarget": "https://www.linkedin.com/feed/hashtag/?keywords=diabetes"
+			}
+		],
+		"foundedOn": null,
+		"url": "https://www.linkedin.com/company/tandemdiabetes/",
+		"crunchbaseFundingData": null,
+		"autoGenerated": false,
+		"logoUrl": "https://media.licdn.com/dms/image/C560BAQFd1c31xI-BMw/company-logo_200_200/0/1643691665912/tandemdiabetes_logo?e=1712188800&v=beta&t=7snAj3Cic2b0N_8Q6epzaohwy-gxQcnHwNXvRnkHOSA",
+		"headquarter": {
+			"country": "US",
+			"geographicArea": "California",
+			"city": "San Diego",
+			"postalCode": "92130",
+			"line2": null,
+			"line1": "12400 High Bluff Drive "
+		},
+		"industries": [
+			{
+				"name": "Medical Equipment Manufacturing",
+				"entityUrn": "urn:li:fsd_industryV2:17"
+			}
+		],
+		"id": "946628",
+		"followerCount": 59653
+	},
+	"metaData": {
+		"pageTitle": "About this profile",
+		"viewee": {
+			"lastName": "Quinones",
+			"multiLocaleLastName": [
+				{
+					"value": "Quinones",
+					"key": "en_US"
+				}
+			],
+			"maidenName": null,
+			"versionTag": "480013093",
+			"firstName": "Raul",
+			"multiLocaleFullNamePronunciationAudio": [],
+			"multiLocaleFirstName": [
+				{
+					"value": "Raul",
+					"key": "en_US"
+				}
+			],
+			"entityUrn": "urn:li:fsd_profile:ACoAABydoRcBSVswdCIvSsNdA2iFB2q9lhuIwrw",
+			"multiLocaleMaidenName": [],
+			"primaryLocale": {
+				"variant": null,
+				"country": "US",
+				"language": "en"
+			},
+			"publicIdentifier": "raulnquinones"
+		},
+		"verifiedProfileInfoSection": [
+			{
+				"badge": null,
+				"veracityInfo": [
+					{
+						"supplementaryText": {
+							"textDirection": "USER_LOCALE",
+							"text": "February 2016",
+							"accessibilityText": "February 2016"
+						},
+						"icon": null,
+						"text": {
+							"textDirection": "USER_LOCALE",
+							"text": "Joined",
+							"accessibilityText": "Joined"
+						},
+						"subtext": null
+					},
+					{
+						"supplementaryText": {
+							"textDirection": "USER_LOCALE",
+							"text": "Updated over 1 year ago",
+							"accessibilityText": "Updated over 1 year ago"
+						},
+						"icon": null,
+						"text": {
+							"textDirection": "USER_LOCALE",
+							"text": "Contact information",
+							"accessibilityText": "Contact information"
+						},
+						"subtext": null
+					},
+					{
+						"supplementaryText": {
+							"textDirection": "USER_LOCALE",
+							"text": "Updated over 1 year ago",
+							"accessibilityText": "Updated over 1 year ago"
+						},
+						"icon": null,
+						"text": {
+							"textDirection": "USER_LOCALE",
+							"text": "Profile photo",
+							"accessibilityText": "Profile photo"
+						},
+						"subtext": null
+					}
+				],
+				"entityVerificationAction": null,
+				"actionTarget": null,
+				"title": null,
+				"verificationActionPromo": null
+			}
+		]
+	},
+	"connectionType": ""
+}

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "express": "^4.20.0",
+    "puppeteer": "^23.3.0",
+    "selenium-webdriver": "^4.24.0"
+  }
+}
